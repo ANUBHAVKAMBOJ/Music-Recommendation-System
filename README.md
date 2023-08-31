@@ -46,7 +46,8 @@ Data Source Link: https://recsys.deib.polimi.it/datasets/
 
 ![ss2](https://github.com/ANUBHAVKAMBOJ/Music-Recommendation-System/assets/90023327/0eaabf61-94df-4534-8e58-70459be91163)
 
- ![ss3](https://github.com/ANUBHAVKAMBOJ/Music-Recommendation-System/assets/90023327/012c1ac5-12a0-4125-9531-df90f32c2cf8)
+![ss31](https://github.com/ANUBHAVKAMBOJ/Music-Recommendation-System/assets/90023327/04aff548-6c43-4e4b-961f-3e4aee4080ec)
+
 
 
  
