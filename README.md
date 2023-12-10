@@ -12,7 +12,7 @@ Music-Recommendation-System In this project, we analyzed sequential patterns of 
 +	Then, I applied Ensembled CNN model in which I processed data in a Horizontal CNN model and a Vertical CNN model and then concatenated them to form a single but 
   powerful learning model.
 
-  ![recom](https://github.com/ANUBHAVKAMBOJ/Music-Recommendation-System/assets/90023327/879e598c-83ac-4c4f-ad15-7e30f1177aa4)
+  ![recom](https://github.com/siddharthgupta5/Music-Recommendation-System/assets/90023327/879e598c-83ac-4c4f-ad15-7e30f1177aa4)
 
 # Evaluation
 +	Used **adam** as optimizer and **categorical_crossentropy** as loss for training model.
@@ -42,14 +42,14 @@ Data Source Link: https://recsys.deib.polimi.it/datasets/
 
 # Screenshots
 
- ![ss1](https://github.com/ANUBHAVKAMBOJ/Music-Recommendation-System/assets/90023327/00a05cf7-4d8e-430a-8103-6be167635b6e)
+ ![ss1](https://github.com/siddharthgupta5/Music-Recommendation-System/assets/90023327/00a05cf7-4d8e-430a-8103-6be167635b6e)
 
-![ss2](https://github.com/ANUBHAVKAMBOJ/Music-Recommendation-System/assets/90023327/0eaabf61-94df-4534-8e58-70459be91163)
+![ss2](https://github.com/siddharthgupta5/Music-Recommendation-System/assets/90023327/0eaabf61-94df-4534-8e58-70459be91163)
 
 \
 **Model Accuracy**
 
-![ss31](https://github.com/ANUBHAVKAMBOJ/Music-Recommendation-System/assets/90023327/04aff548-6c43-4e4b-961f-3e4aee4080ec)
+![ss31](https://github.com/siddharthgupta5/Music-Recommendation-System/assets/90023327/04aff548-6c43-4e4b-961f-3e4aee4080ec)
 
 
 
